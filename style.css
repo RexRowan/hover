@@ -3,7 +3,7 @@
 body{
 	font-family: 'Roboto Condensed';
 	text-transform: uppercase;
-	background: #ff0066;
+	background: #ff5964;
 	height: 100%;
 	overflow: hidden;
 }
@@ -47,7 +47,7 @@ nav ul li{
 nav ul li a{
 	/* let's change that ugly default anchor tag styling */
 	text-decoration: none;
-	color: #ff0066;
+	color: #fff;
 }
 
 .front{
